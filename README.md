@@ -1,2 +1,2 @@
-# Junit-Mockito-springboot
-Junit Mockito With Springboot
+# Junit-Mockito-Springboot-Rest
+Junit Mockito With Springboot Rest APIs
